@@ -1,12 +1,12 @@
 # e-commerce-pizza-mysql
 
 
+![Screenshot 2022-04-11 111538](https://user-images.githubusercontent.com/110045968/190011223-1f4e63db-85ea-4da8-8c07-1a9dd3149e94.jpg)
 
+![Screenshot 2022-04-11 111601](https://user-images.githubusercontent.com/110045968/190011253-0c3d851c-aeac-4bad-b546-9920170334b9.jpg)
 
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <br>
 
 
